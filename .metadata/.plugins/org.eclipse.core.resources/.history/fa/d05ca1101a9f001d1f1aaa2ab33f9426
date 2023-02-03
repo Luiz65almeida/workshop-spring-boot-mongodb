@@ -1,0 +1,5 @@
+package com.Henrique.workShop.resources.exceptions;
+
+public class StandardError {
+
+}
